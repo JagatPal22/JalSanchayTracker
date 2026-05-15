@@ -1,7 +1,9 @@
 # JalSanchay Tracker
 
 ## Problem Statement
-JalSanchay Tracker is an Android application developed to promote rainwater harvesting and water conservation by tracking rainfall data and estimating water savings.
+Many households have rainwater harvesting but no way to track if it's effective. Without data, conservation
+feels intangible. Jal-Sanchay Tracker turnsrainwater harvesting into a measurable goal. By entering roof area and rainfall,
+the app calculates "Water Wealth," encouraging sustainable habits.
 
 ## Features
 - Rainfall data entry
